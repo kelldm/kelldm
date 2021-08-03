@@ -1,4 +1,4 @@
-## Olá, tudo bem? 👋 
+## Olá, tudo bem? 👋
 
 # (PT-BR) Seja bem vindo(a) ao meu perfil! 
 
@@ -17,21 +17,22 @@ Estou atualmente estudando CSS :)
 ### 💞Hobbies: 
 Jogar, desenhar e ler.
 
-##
+##]
 
 <!-- status-->
- <div>
-  <a href="https://github.com/rafaballerini">
+<div>
+  <a href="https://github.com/kelldm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelldm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelldm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!--status-->
-  
+ 
  ##
+
  
   ![Snake animation](https://github.com/kelldm/kelldm/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 
+ ##  
+ 
 #### **Agora sem mais demoras, pegue um café e vamos codar!**
 
