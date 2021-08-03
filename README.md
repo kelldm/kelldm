@@ -17,7 +17,7 @@ Estou atualmente estudando CSS :)
 ### 💞Hobbies: 
 Jogar, desenhar e ler.
 
-##]
+##
 
 <!-- status-->
 <div>
