@@ -10,7 +10,7 @@ Me chamo Raquel Lins, tenho 20 anos. Entrei neste mundo dev em 2020, apesar de t
 ##
 
 ### 📚Estudando: 
-Estou atualmente estudando CSS :)
+Estou atualmente estudando JAVA :)
 
 ##
 
