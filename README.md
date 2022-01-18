@@ -3,19 +3,19 @@
 # (PT-BR) Seja bem vindo(a) ao meu perfil! 
 
 ### 🐱Um pouco sobre mim:
-Me chamo Raquel Lins, tenho 20 anos. Entrei neste mundo dev em 2020, apesar de ter aprendido um pouco antes em cursos, e um blog que eu tinha quando mais nova. Realmente me apeguei e tenho interesse em desenvolvimento front-end e de jogos. 
+Me chamo Raquel Lins, tenho 21 anos. Sou apaixonada por jogos e desafios! Estou cursando na PUC-MG Análise e Desenvolvimento de Sistemas, com forte interesse em Desenvolvimento de Jogos.
 
 ❗ I can speak english! Feel free to send me a DM. ❗
 
 ##
 
 ### 📚Estudando: 
-Estou atualmente estudando JAVA :)
+Estou atualmente estudando JS :)
 
 ##
 
 ### 💞Hobbies: 
-Jogar, desenhar e ler.
+Jogar, desenhar/pintar e ler. Faço alguns artesanatos nas horas vagas também. Amo viajar, assim como amo ficar em casa com um chocolate quente, ou assistindo um filme.
 
 ##
 
