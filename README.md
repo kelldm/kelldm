@@ -9,11 +9,6 @@ Me chamo Raquel Lins, tenho 21 anos. Sou apaixonada por jogos e desafios! Estou 
 
 ##
 
-### 📚Estudando: 
-Estou atualmente estudando JS :)
-
-##
-
 ### 💞Hobbies: 
 Jogar, desenhar/pintar e ler. Faço alguns artesanatos nas horas vagas também. Amo viajar, assim como amo ficar em casa com um chocolate quente, ou assistindo um filme.
 
