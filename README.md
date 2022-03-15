@@ -4,14 +4,14 @@
 ### 🐱Um pouco sobre mim:
 Me chamo Raquel Lins, tenho 21 anos. Sou apaixonada por jogos e desafios! Estou cursando na PUC-MG Análise e Desenvolvimento de Sistemas, com forte interesse em Desenvolvimento de Jogos.
 
-❗ I can speak english! Feel free to send me a DM. ❗
-
 ##
 
 ### 💞Hobbies: 
 Jogar, desenhar/pintar e ler. Faço alguns artesanatos nas horas vagas também. Amo viajar, assim como ficar em casa com um chocolate quente, ou assistindo um filme.
 
 ##
+
+🚩Linguagens: <strong> HTML, CSS, JS, Bootstrap, C# </strong>
 
 <!-- status-->
 <div>
