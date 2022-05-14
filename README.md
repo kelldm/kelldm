@@ -11,7 +11,7 @@ Jogar, desenhar/pintar e ler. Faço alguns artesanatos nas horas vagas também. 
 
 ##
 
-🚩Linguagens: <strong> HTML, CSS, JS, Bootstrap, C# </strong>
+🚩Linguagens: <strong> HTML, CSS, JQuery, JS, Bootstrap, C#, .NET </strong>
 
 <!-- status-->
 <div>
