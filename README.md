@@ -2,7 +2,7 @@
 ## (PT-BR) Seja bem vindo(a) ao meu perfil! 
 
 ### 🐱Um pouco sobre mim:
-Me chamo Raquel Lins, tenho 21 anos. Sou apaixonada por jogos e desafios! Estou cursando na PUC-MG Análise e Desenvolvimento de Sistemas, com forte interesse em Desenvolvimento de Jogos.
+Me chamo Raquel Lins, tenho 21 anos. Sou apaixonada por jogos e desafios! Estou cursando na PUC-MG Análise e Desenvolvimento de Sistemas, com forte interesse em Desenvolvimento Front-end e Desenvolvimento de Jogos.
 
 ##
 
