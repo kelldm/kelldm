@@ -21,20 +21,20 @@ Tenho 21 anos, moro atualmente no Rio de Janeiro, Brasil. Sou apaixonada por jog
 - 📫 How to reach me **raquellinsdev@gmail.com**
 
 
+
+#### **Agora sem mais demoras, pegue um café e vamos codar!**
+
+
+## 
 <h3><img src="https://media.giphy.com/media/JSuqw9dtapJhEyC33d/giphy.gif"
 width="25" height="20" style="margin-right: 10px;">
 <a href="https://linktr.ee/raquelldm" target="blank"> Connect with me 🤝</a></h3>
  
    
-   
- ##
- 
- 
  
   ![Snake animation](https://github.com/kelldm/kelldm/blob/output/github-contribution-grid-snake.svg)
  
  
   ##
  
-#### **Agora sem mais demoras, pegue um café e vamos codar!**
 
