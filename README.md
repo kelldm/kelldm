@@ -25,7 +25,6 @@ Tenho 21 anos, sou apaixonada por jogos e desafios! Estou cursando na PUC-MG An√
 #### **Agora sem mais demoras, pegue um caf√© e vamos codar!**
 
 
-## 
 
  
   ![Snake animation](https://github.com/kelldm/kelldm/blob/output/github-contribution-grid-snake.svg)
