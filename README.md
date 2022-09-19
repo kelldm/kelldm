@@ -7,7 +7,7 @@ Raquel Lins</a></h1>
 Tenho 21 anos, moro atualmente no Rio de Janeiro, Brasil. Sou apaixonada por jogos e desafios! Estou cursando na PUC-MG Análise e Desenvolvimento de Sistemas, com forte interesse em Desenvolvimento Front-end e Desenvolvimento de Jogos.
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
+  <img align="right" top="400" height="260" width="260" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
 </a>
 
 - 🚩 Linguagens: **HTML, CSS, JS, JQuery, Bootstrap, React.js, C#, .NET, SQL.**
