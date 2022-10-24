@@ -14,7 +14,7 @@ Tenho 21 anos, sou apaixonada por jogos e desafios! Estou cursando na PUC-MG An�
 
 - 🤝 Estou disponível para freelancing e estágio.
 
-- 🌱 Atualmente estudando Front-end
+- 🌱 Atualmente estudando React e Jest!
 
 - 💬  Sinta-se livre para me mandar mensagens!
 
