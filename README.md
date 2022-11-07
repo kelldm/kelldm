@@ -10,7 +10,7 @@ Tenho 21 anos, sou apaixonada por jogos e desafios! Estou cursando na PUC-MG An�
   <img align="right" top="400" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
 </a>
 
-- 🚩 Linguagens: **HTML, CSS, JS, JQuery, Bootstrap, React.js, C#, .NET, SQL.**
+- 🚩 Linguagens: **HTML, CSS, JS, TypeScript, JQuery, Bootstrap, React.js, C#, .NET, SQL.**
 
 - 🤝 Estou disponível para freelancing e estágio.
 
