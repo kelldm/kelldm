@@ -4,7 +4,7 @@
 <h1 align="center">Olá 👋, Me chamo <a href="https://github.com/kelldm?tab=repositories/" target="blank">
 Raquel Lins</a></h1>
 
-Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em Desenvolvimento Front-end e Quality Assurance.
+Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em Desenvolvimento Front-end e Quality Assurance. Amo e tenho facilidade em aprender novas coisas :)
 
 <a target="_blank" align="center">
   <img align="right" top="400" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
