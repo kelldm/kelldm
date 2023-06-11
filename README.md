@@ -10,13 +10,15 @@ Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
   <img align="right" top="400" height="250" width="250" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
 </a>
 
-- 🚩 Tecnologias: **HTML, CSS, JavaSript, TypeScript, Bootstrap, React.js, Node.js, C#, .NET, SQL.**
+- 🚩 Tecnologias: **HTML, CSS, JavaSript, TypeScript, Bootstrap, React.js, Angular.**
 
 - 🤝 Estou disponível para freelancing e estágio.
 
-- 🌱 Atualmente estudando React e Jest!
+- 🌱 Atualmente estudando React!
 
 - 💬  Sinta-se livre para me mandar mensagens!
+
+- 💻 Link Portifólio: Em breve.
 
 - 📫 Conecte-se comigo: **raquellinsdev@gmail.com**
 
