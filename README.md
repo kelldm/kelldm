@@ -10,7 +10,7 @@ Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
   <img height="250" width="250" alt="GIF" src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif">
 </a>
 
-- 🚩 Tecnologias: **HTML, CSS, JavaSript, TypeScript, Bootstrap, React.js, Angular.**
+- 🚩 Tecnologias: **HTML, CSS, JavaSript, TypeScript, Bootstrap, React.js, C#, Java.**
 
 - 🤝 Estou disponível para freelancing e estágio.
 
@@ -21,6 +21,8 @@ Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
 - 💻 Link Portifólio: Em breve.
 
 - 📫 Conecte-se comigo: **raquellinsdev@gmail.com**
+
+  - **behance**: https://www.behance.net/raquellins
 
 
 
