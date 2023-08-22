@@ -14,7 +14,7 @@ Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
 
 - 💬  Sinta-se livre para me mandar mensagens!
 
-- 💻 Link Portifólio: portifolio-kelldm.vercel.app
+- 💻 Link Portifólio: https://portifolio-kelldm.vercel.app
 
 - 📫 Conecte-se comigo: **raquellinsdev@gmail.com**
 
