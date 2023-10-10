@@ -6,7 +6,7 @@ Raquel Lins</a></h1>
 
 Tenho 22 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em Desenvolvimento web, IA e jogos. Tenho facilidade em aprender novas coisas :)
 
-- 🚩 Tecnologias: **HTML, CSS, JavaSript, TypeScript, Bootstrap, React.js, C#, Java.**
+- 🚩 Tecnologias: **HTML, CSS, Tailwind, Bootstrap, JavaSript, TypeScript, React.js, C#, .NET, Java.**
 
 - 🤝 Estou disponível para freelancing e estágio.
 
