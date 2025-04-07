@@ -9,7 +9,7 @@ Tenho 23 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
 
 - 💼 Atualmente estagiando na Sys Manager, sendo prestadora na Globo.
 
-- 🌱 Atualmente no 4° período!
+- 🌱 Atualmente no 5° período!
 
 - 💬  Sinta-se livre para me mandar mensagens!
 
