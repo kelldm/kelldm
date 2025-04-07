@@ -5,7 +5,7 @@ Raquel Lins</a></h1>
 &nbsp;
 
 <p align="center"> <br><br> 
-Tenho 23 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em<strong> Desenvolvimento web, IA e jogos</strong>. Tenho facilidade em aprender novas coisas :) </p>
+Tenho 24 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em<strong> Desenvolvimento de software, IA e jogos</strong>. Tenho facilidade em aprender novas coisas :) </p>
 
 - 💼 Atualmente estagiando na Sys Manager, sendo prestadora na Globo.
 
