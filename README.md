@@ -14,11 +14,6 @@ Tenho 24 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e De
 - 💬  Sinta-se livre para me mandar mensagens!
 
  &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kelldm&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-kell.vercel.app/api/top-langs/?username=kelldm&theme=radical&layout=compact"/>
- </div>
  
  &nbsp;
  &nbsp;
