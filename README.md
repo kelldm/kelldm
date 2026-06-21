@@ -1,19 +1,15 @@
 
 
-<h1 align="center">Olá 👋, me chamo <a href="https://github.com/kelldm?tab=repositories/" target="blank">Raquel Lins</a></h1> &nbsp; <p align="center"> Desenvolvedora Front-End com foco na criação de interfaces modernas, responsivas e centradas na experiência do usuário. </p> 
-<p align="center"> Trabalho principalmente com <strong>React, TypeScript, HTML, CSS e JavaScript</strong>, construindo aplicações web com atenção a performance, usabilidade e boas práticas de desenvolvimento. Também aplico conhecimentos de <strong>UX/UI Design</strong> para melhorar a experiência e a interface dos produtos que desenvolvo. </p>
+<h1>Olá 👋, me chamo <a href="https://github.com/kelldm?tab=repositories/" target="_blank">Raquel Lins</a></h1>
 
- 
+Front-End Developer apaixonada por criar interfaces modernas, acessíveis e performáticas.
 
-💼 Disponível para oportunidades em Front-End e Freelances em UX/UI Design
-🌱 Em constante evolução
-💬 Aberta a conversar sobre projetos, código e tecnologia!
+Atualmente trabalho com **React, TypeScript, JavaScript, HTML e CSS**, desenvolvendo aplicações web focadas em experiência do usuário, qualidade de código e escalabilidade. Também possuo experiência em **UX/UI Design**, o que me permite unir visão técnica e de produto na construção de soluções digitais.
 
- 
- 
- &nbsp;
- &nbsp;
-
+- 💼 Disponível para oportunidades em Front-End
+- 🚀 Focada em React, TypeScript e desenvolvimento web moderno
+- 🎨 Experiência com UX/UI Design e Design Systems
+- 💬 Aberta para conversar sobre tecnologia, projetos e oportunidades
 
 
 ## My Skills
