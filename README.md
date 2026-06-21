@@ -1,18 +1,15 @@
 
 
-<h1 align="center">Olá 👋, Me chamo <a href="https://github.com/kelldm?tab=repositories/" target="blank">
-Raquel Lins</a></h1>
-&nbsp;
+<h1 align="center">Olá 👋, me chamo <a href="https://github.com/kelldm?tab=repositories/" target="blank">Raquel Lins</a></h1> &nbsp; <p align="center"> Desenvolvedora Front-End com foco na criação de interfaces modernas, responsivas e centradas na experiência do usuário. </p> 
+<p align="center"> Trabalho principalmente com <strong>React, TypeScript, HTML, CSS e JavaScript</strong>, construindo aplicações web com atenção a performance, usabilidade e boas práticas de desenvolvimento. Também aplico conhecimentos de <strong>UX/UI Design</strong> para melhorar a experiência e a interface dos produtos que desenvolvo. </p>
 
-<p align="center"> <br><br> 
-Tenho 24 anos, sou apaixonada por jogos e desafios! Estou cursando Análise e Desenvolvimento de Sistemas na INFNET, com forte interesse em<strong> Product Design, IA e jogos</strong>. Tenho facilidade em aprender novas coisas :) </p>
+ 
 
-- 💼 Disponível para Freelance.
-- 🌱 Atualmente no 5° período!
+💼 Disponível para oportunidades em Front-End e Freelances em UX/UI Design
+🌱 Em constante evolução
+💬 Aberta a conversar sobre projetos, código e tecnologia!
 
-- 💬  Sinta-se livre para me mandar mensagens!
-
- &nbsp;
+ 
  
  &nbsp;
  &nbsp;
