@@ -6,8 +6,8 @@ Front-End Developer apaixonada por criar interfaces modernas, acessíveis e perf
 
 Atualmente trabalho com **React, TypeScript, JavaScript, HTML e CSS**, desenvolvendo aplicações web focadas em experiência do usuário, qualidade de código e escalabilidade. Também possuo experiência em **UX/UI Design**, o que me permite unir visão técnica e de produto na construção de soluções digitais.
 
-- 💼 Disponível para oportunidades em Front-End
-- 🚀 Focada em React, TypeScript e desenvolvimento web moderno
+- 💼 Disponível para oportunidades em Desenvolvimento
+- 🚀 Aprimorando skills em React, TypeScript e desenvolvimento web moderno 
 - 🎨 Experiência com UX/UI Design e Design Systems
 - 💬 Aberta para conversar sobre tecnologia, projetos e oportunidades
 
