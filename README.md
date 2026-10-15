@@ -1,7 +1,8 @@
 
 
 <h1>Olá 👋, me chamo <a href="https://github.com/kelldm?tab=repositories/" target="_blank">Raquel Lins</a></h1>
-<https://devkelldms.netlify.app/>
+
+<a href="https://devkelldms.netlify.app/" target="_blank" rel="noopener noreferrer">https://devkelldms.netlify.app/</a>
 
 Front-End Developer apaixonada por criar interfaces modernas, acessíveis e performáticas.
 
